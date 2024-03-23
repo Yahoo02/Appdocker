@@ -3,6 +3,7 @@ import TodoList from "./components/TodoList.vue";
 </script>
 
 <template>
+<h2>Bienvenidos a este cambio</h2>
   <div class="app-wrapper">
     <div>
       <img
